@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
     //git 수정해서 다시 백업하기
-    println("Hello World! git Study!!")
+    println("Hello World! git Study!!") //git 로컬저장소에서 브랜치 만들고 conflict도 해보기
 
     /*git
     * git push
